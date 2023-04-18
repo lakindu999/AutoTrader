@@ -1,0 +1,16 @@
+1) Admin 
+
+newadmin@gmail.com
+Admin@123
+
+2) Seller
+
+seller@bmw.com
+12345678
+
+3) Customer
+
+laki@gmail.com
+12345678
+
+
